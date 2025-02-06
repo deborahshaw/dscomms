@@ -1,0 +1,37 @@
+
+  
+<p>Hey there! I’m Deborah Shaw, and I’ve been in the game for over 25 years—yep, I’ve seen the internet go from dial-up to TikTok. </p>
+
+<p>I’ve helped businesses of all sizes—small startups to big-name brands—level up their communication, from social media strategies to clear, concise messaging that actually gets through to people.</p>
+
+<p>In a world where things are changing faster than you can say “algorithm,” it’s easy to feel like you’re lost in the noise. That’s where I come in. </p>
+
+<p>I’ll help you find your voice and get your message heard, no matter how fast the world is moving.</p>
+
+<p>I’m all about Plain English. No jargon, no fluff—just straight-up communication that works. Together, we’ll dig deep to find your brand’s story, make it crystal clear, and create a strategy to connect with your audience in ways that stick.</p>
+
+<p>Ready to stop overthinking your message and actually start connecting? Let’s chat.</p>
+
+## What I Do
+
+* Communications Strategy
+Whether you’re building a brand or just trying to get your message right, I’ll help you map out a plan that speaks to your audience and that you can actually implement.
+
+* Social Media Strategy
+Stop getting buried in the feed. Let’s create a social media plan that stands out, connects, and engages—no more posting just for the sake of it.
+
+* Storytelling and Content Creation
+Storytelling isn’t just about telling a tale—it’s about telling the right story. I’ll help you find the stories that will resonate with your audience and keep them coming back for more.
+
+* Plain English Writing
+Don’t overcomplicate things. I’m all about simplifying your message so it’s easy to get and easy to act on.
+
+* Co-Creation
+Communication is a team sport. We’ll work together to build systems and strategies that actually fit your brand and goals.
+
+##### Ready to get started?
+
+No more trying to figure out how to "get it right." Let’s make your communication clear, simple, and straight-up awesome. Hit me up and let’s get this show on the road!
+
+
+Email me at [deb@contentmonkey.com.au](mailto:deb@contentmonkey.com.au)
