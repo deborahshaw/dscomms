@@ -1,0 +1,20 @@
+---
+title: "Welcome to Deborah Shaw Communications"
+layout: single
+permalink: /
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/coffee.jpg
+  actions:
+    - label: "Hell yeah!"
+      url: "mailto:deb@contentmonkey.com.au"
+excerpt: "Want to make your comms pop?"
+intro: 
+#  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+---
+
+{% include feature_row id="intro" type="center" %}
+
+{% include intro.md %} 
+
