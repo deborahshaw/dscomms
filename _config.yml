@@ -23,7 +23,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Deborah Shaw"
 description              : "An amazing website."
 email                    : "deb@contentmonkey.com.au"
-url                      : # e.g. "https://mmistakes.github.io"
+url                      : https://deborahshaw.au # e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
